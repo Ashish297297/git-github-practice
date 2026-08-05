@@ -1,8 +1,6 @@
 # Git GitHub Practice
 This change was made in feature branch.
 
-# Git & GitHub Practice
-
 ## Project Overview
 This repository was created to practice Git and GitHub fundamentals as part of a DevOps internship assignment.
 
