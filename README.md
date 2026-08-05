@@ -14,6 +14,7 @@ This repository was created to practice Git and GitHub fundamentals as part of a
 - Branch Creation
 - Branch Merge
 
+``
 ## Git Commands Used
 
 ```bash
@@ -26,6 +27,7 @@ This repository was created to practice Git and GitHub fundamentals as part of a
 - git checkout
 - git branch
 - git merge
+```
+## Author
 
-## Author 
 Ashish Soni
